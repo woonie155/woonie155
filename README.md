@@ -8,7 +8,7 @@
 **Strong** <br>
 JAVA, SpringBoot, Mybatis, JPA, MySQL <br><br>
 **Knowledgeable** <br>
-*(BackEnd)*: SpringBatch, SpringSecurity, JSP, Thymeleaf <br>
+*(BackEnd)*: SpringBatch, SpringSecurity, QueryDSL, JSP, Thymeleaf <br>
 *(FrontEnd)*: Vue.js <br>
 *(Devops)*: Docker, Jenkins, Ansible, sonarQube, AWS(EC2, RDS) <br>
 *(Collaboration)*: REST API, Github, Jira <br>
