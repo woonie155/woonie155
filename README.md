@@ -30,7 +30,12 @@ JAVA, SpringBoot, Mybatis, JPA, MySQL <br><br>
 
 
 ### Toy Project
-  1. House: 핸드사인을 이용한 노트북 제어 프로그램
-  2. Tripong: 여행 웹 커뮤니티
-  3. Matchimban: 맛집 추천/예약 웹
+  1. (협업)House: 핸드사인을 이용한 노트북 제어 프로그램
+  2. (협업)Tripong: 여행 웹 커뮤니티
+  3. (협업)Matchimban: 맛집 추천/예약 웹
+  4. (개인)SpringBatch
+  5. (개인)CICD
+
+### Work Experience
+  1. 백엔드 개발자
 -->
